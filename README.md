@@ -34,7 +34,7 @@ If your repository doesn't contain the "merges" described here you won't learn a
 ```
 cmd> git checkout master
 cmd> git checkout -b dev-one-menu
-of
+or
 cmd> git checkout master
 cmd> git branch dev-one-menu
 cmd> git checkout dev-one-menu
